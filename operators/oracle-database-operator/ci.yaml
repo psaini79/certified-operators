@@ -1,1 +1,5 @@
-cert_project_id: "62f38bfdc050c35b1a472212"
+---
+cert_project_id: 62f38bfdc050c35b1a472212
+fbc:
+  catalog_mapping: []
+  enabled: true
